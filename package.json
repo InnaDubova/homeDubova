@@ -1,0 +1,15 @@
+{
+  "name": "dubovahome01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home01_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon home01-1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
