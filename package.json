@@ -1,15 +1,18 @@
 {
-  "name": "dubovahome01",
+  "name": "hw1-dubova",
   "version": "1.0.0",
   "description": "",
-  "main": "home01_1.js",
+  "main": "hw1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon home01-1.js"
+    "start": "nodemon hw1.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
